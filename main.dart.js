@@ -80649,7 +80649,7 @@ A.a7Z.prototype={
 $1(a){return B.No},
 $S:491}
 A.t4.prototype={
-E(a){var s,r,q,p,o,n=null,m=$.Y0(),l=t.w,k=a.H(l).f.a.a>=1100?n:A.avU(B.qU,a.H(l).f.a.a*0.4),j=a.H(l).f.a.a<600?A.avU(B.z5,a.H(l).f.a.a*0.6):n
+E(a){var s,r,q,p,o,n=null,m=$.Y0(),l=t.w,k=a.H(l).f.a.a>=1100?n:A.avU(B.qU,a.H(l).f.a.a*0.75),j=a.H(l).f.a.a<600?A.avU(B.z5,a.H(l).f.a.a*0.75):n
 if(!(a.H(l).f.a.a>=1100)){s=A.P(n,A.oB("assets/images/layer.png",n,35,42),B.f,B.de,n,n,n,70,n,n,n,n,1/0)
 r=t.p
 q=A.P(n,A.af(A.a([A.P(n,A.kD(n,B.P,B.P,B.Im,n,new A.a74(),B.P,n),B.f,n,n,B.Ca,n,n,n,B.cD,n,n,n),B.d_,A.kD(n,B.P,B.P,B.qL,n,new A.a75(),B.P,n)],r),B.n,B.i,B.j),B.f,B.de,n,n,n,n,n,n,n,n,n)
