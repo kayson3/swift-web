@@ -9,8 +9,8 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "59c15458b2c4223c9b9a58b154f523ca",
 "icons/Icon-192.png": "cc849ccb21ed29207860a534d298c2fa",
 "manifest.json": "8afe496859b268272935294d8978fdad",
-"index.html": "461cf494dce0e48a095a335e785f46f6",
-"/": "461cf494dce0e48a095a335e785f46f6",
+"index.html": "873054e5b54f73e23f74607b995a6d58",
+"/": "873054e5b54f73e23f74607b995a6d58",
 "assets/AssetManifest.json": "364b79bacaac0160daced3b9e04cad65",
 "assets/FontManifest.json": "5504c4e38aba3935ae8c644d8dd735ab",
 "assets/assets/videos/splashwhite.gif": "7660404e58f84262dfb85dab4e4034c7",
@@ -51,7 +51,7 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"main.dart.js": "94ea3ad925f21422b7ae0cc2d7b8d14e"
+"main.dart.js": "56d34fecdde2fd32ebcd77bc0e4bc0e3"
 };
 
 // The application shell files that are downloaded before a service worker can
